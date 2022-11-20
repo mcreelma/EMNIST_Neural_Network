@@ -445,14 +445,7 @@ The dataset was split using a 1/6 training/validation split, which involves 5/6t
 Overall, my network achieved a performance of 88.4% which is comparable with the accuracies of many of benchmark networks, which range in performance from 50.93% to 95.96% accuracy on the testing data (paperswithcode.com, 2017). While certainly not as accurate, I would call my accuracy of 88.4% or 16619/18800 to be above average. Additionally, the improvements of accuracy by epoch seemed to reach a plateau around 80 or so training sessions, as can be seen in Figure 1. Obviously these results can always be improved and I will continue to refine my design and implementation techniques through further iterations.
 
  
-
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
+![Accuracy_By_Epoch](https://user-images.githubusercontent.com/44550282/202878658-18e56150-361e-419a-a3a3-97e0ea31726c.png)
 
 Figure 1. - Training Accuracy vs. Epoch of final network design
 
